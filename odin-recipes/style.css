@@ -48,6 +48,10 @@ span {
  font-weight: bold;
 }
 
+.content-wrapper{
+ margin-bottom: 1.5em;
+}
+
 .list-wrapper {
  padding-top: .9em;
 }
