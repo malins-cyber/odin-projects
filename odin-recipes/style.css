@@ -22,17 +22,6 @@ img {
  object-position: contain;
 }
 
-li {
- padding: .8em 1em;
- background: #dddddd;
- list-style: none
-}
-
-li:nth-child(odd) {
- background: #eeeeee;
-}
-
-
 a {
  text-decoration: none;
  color: #000000;
@@ -56,6 +45,9 @@ span {
  padding-left: 1em;
 }
 
+.content-wrapper{
+ margin-bottom: 1.5em;
+}
 
 .header {
  display: flex;
